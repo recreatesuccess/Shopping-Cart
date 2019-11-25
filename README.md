@@ -1,2 +1,3 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+# SHOPPING CART
+
+In this Javascript project, I design a shopping cart system. 
